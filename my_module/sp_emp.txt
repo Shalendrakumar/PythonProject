@@ -1,0 +1,13 @@
+ename,salary,location,deptid
+Ram,3000,Delhi,101
+Mohan,4000,Pune,102
+Sohan,5000,Pune,102
+Sita,5000,Chennai,103
+Radha,3400,Mumbai,104
+Kiran,4000,BA,106
+Rajesh,7000,BA,106
+Raman,2500,Delhi,101
+Vikash,4000,BA,106
+Rani,9000,Pune,102
+Raja,10000,Delhi,101
+Sonu,7000,Chennai,103
